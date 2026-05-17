@@ -745,3 +745,12 @@ Start date: March 19th, 2026
 End of support: February 10th, 2027
 
 _______________________________________
+
+
+# WUAPP (2.0) 
+
+Start date: soon
+
+End of support: January 14, 2027
+
+_______________________________________
