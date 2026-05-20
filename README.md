@@ -773,5 +773,5 @@ _______________________________________
 
 Start date: May 20, 2026
 
-End of support: November 15, 2034
+End of support: November 15, 2026 (due to newly discovered bug)
 _______________________________________
