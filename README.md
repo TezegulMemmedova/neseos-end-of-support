@@ -805,3 +805,19 @@ Start date: May 21, 2026
 
 End of support: N/A (not tested, yet)
 _______________________________________
+
+# ElvinX 1.0 (by ElvinX)
+
+Start date: pre-installed on Nese 7 (including Server 2008 R2)
+
+End of support: July 15, 2026
+
+_______________________________________
+
+# ElvinX 2.0 (by ElvinX)
+
+Start date: pre-installed on Nese Server 2008 R2, version 26W5
+
+End of support: N/A
+
+_______________________________________
