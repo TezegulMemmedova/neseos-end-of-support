@@ -856,3 +856,11 @@ Start date: pre-installed on every Nese-based operating systems
 End of support: November 11, 2026
 
 _______________________________________
+
+# RavanaX 3.0 (by RavanaX)
+
+Start date: pre-installed on Nese Server 2012 R2, version 26K8
+
+End of support: N/A
+
+_______________________________________
