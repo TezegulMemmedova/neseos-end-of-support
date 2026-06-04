@@ -637,6 +637,20 @@ Extended Security Updates (ESU) for licensed ends: September 14, 2033
 
 _______________________________________
 
+# Nese Server 2012 R2 (26K8)
+Start date: June 3, 2026
+
+End of support: June 1, 2027
+
+_______________________________________
+
+# Nese Server 2012 R2 (26K9)
+Start date: June 4, 2026
+
+End of support: June 2, 2027
+
+_______________________________________
+
 # Nese 9 25K2 (BETA) 
 Start date: April 9, 2024 
 
