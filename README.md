@@ -624,6 +624,19 @@ End of support: May 9, 2025
 
 _______________________________________
 
+# Nese Server 2012 R2 
+Start date: June 3, 2026
+
+Mainstream ends: June 1, 2028
+
+Extended ends: May 2, 2030
+
+Extended Security Updates (ESU) for non licensed ends: January 14, 2032 
+
+Extended Security Updates (ESU) for licensed ends: September 14, 2033 
+
+_______________________________________
+
 # Nese 9 25K2 (BETA) 
 Start date: April 9, 2024 
 
