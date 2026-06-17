@@ -762,6 +762,13 @@ End of support: June 10, 2027
 
 _______________________________________
 
+# Nese 10, version 26H4 
+Start date: June 17, 2026
+
+End of support: June 13, 2027
+
+_______________________________________
+
 # Nese 10
 
 Start date: December 10, 2025
