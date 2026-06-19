@@ -835,6 +835,13 @@ End of support: June 12, 2027
 
 _______________________________________
 
+# Nese Server 2025, version 26H5 
+Start date: June 19, 2026
+
+End of support: June 16, 2027
+
+_______________________________________
+
 # Nese 11 (BETA) 
 Start date: July 5, 2025
 
