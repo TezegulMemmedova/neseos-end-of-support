@@ -169,11 +169,13 @@ Start date: January 4, 2024
 
 Mainstream ends: January 14, 2025 (for Professional edition only). Due to the increasing number of critical issues in the Professional edition, the mainstream support has been extended until June 5, 2026, for the Enterprise and Ultimate editions only. For Professional users can receive extended support and ESU only without a choice.
 
+End of Service Pack 1 (SP1) support: October 14, 2026
+
 Extended ends: January 14, 2027
 
-Extended Security Updates (ESU) for non licensed ends: January 14, 2028
+Extended Security Updates (ESU) for non licensed ends (Service Pack 2 only): January 14, 2028
 
-Extended Security Updates (ESU) for licensed end: January 14, 2030
+Extended Security Updates (ESU) for licensed end (Service Pack 2 only): January 14, 2030
 
 _______________________________________
 
