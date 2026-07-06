@@ -515,6 +515,13 @@ End of support: May 19, 2027
 
 _______________________________________
 
+# Nese 7 Ultimate (26W5 R3)
+Start date: June 30, 2026
+
+End of support: June 29, 2027
+
+_______________________________________
+
 # Nese 7 Enterprise (26W5)
 Start date: May 21, 2026
 
